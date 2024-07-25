@@ -9,8 +9,7 @@
 #height = float(input())
 # Enter your weight in kilograms e.g., 72
 #weight = int(input())
-# 🚨 Don't change the code above 👆
-#Write your code below this line 👇
+
 
 height = float(input("Enter the height "))
 weight = int(input("Enter the weight "))
